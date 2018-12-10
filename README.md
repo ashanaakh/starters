@@ -19,7 +19,7 @@ $ helm version
 Clone it in helm starters directory
 
 ```
-git clone https://github.com/ashanaakh/starters.git ~/$HOME/.helm/starters
+git clone https://github.com/ashanaakh/starters.git $HOME/.helm/starters
 ```
 
 Use starters like this
